@@ -1,0 +1,4 @@
+*.pem
+main.py
+.env
+/venv
